@@ -1,0 +1,39 @@
+Asian Female:
+- Count: 57
+- Train: 40
+- Test: 17
+
+Asian Male:
+- Count: 53
+- Train: 40
+- Test: 13
+
+Black Female:
+- Count: 107
+- Train: 70
+- Test: 37
+
+Black Male:
+- Count: 100
+- Train: 70
+- Test: 30
+
+Latino Female:
+- Count: 56
+- Train: 40
+- Test: 16
+
+Latino Male:
+- Count: 54
+- Train: 40
+- Test: 14
+
+White Female:
+- Count: 92
+- Train: 70
+- Test: 22
+
+White Male:
+- Count: 100
+- Train: 70
+- Test: 30
